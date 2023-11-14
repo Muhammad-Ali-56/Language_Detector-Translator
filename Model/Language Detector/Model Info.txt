@@ -1,0 +1,7 @@
+Language_Detection_Model.joblib  ==> Model Used for Detection
+
+
+Language_Detection_Model.pkl  ==> Model Used for Detection
+
+
+Vectorizer.joblib  ==>  Vectorizer for Detection
